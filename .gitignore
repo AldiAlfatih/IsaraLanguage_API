@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Virtual environments
 .venv/
 venv/
@@ -22,3 +23,29 @@ Thumbs.db
 .vscode/
 .idea/
 
+=======
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Data besar (opsional, sesuaikan)
+data_test/*.mp4
+data_test/*.avi
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+>>>>>>> 3cd08f242e286eebbad27454784a7150806acf94
